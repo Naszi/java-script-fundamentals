@@ -1,1 +1,2 @@
-console.log(`Hello JavaScript World!`);
+let userName = 'Szabolcs';
+console.log(`Hello ${userName}!`);
